@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{6F3EA6F3-D211-4651-974E-93372809C875}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.JwtWebApiTutorial PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JwtWebApiTutorial/Program.cs">
+    <Files>
+      <File FileName="JwtWebApiTutorial/DTOs/UserDto.cs" />
+      <File FileName="JwtWebApiTutorial/Entities/User.cs" />
+      <File FileName="JwtWebApiTutorial/Program.cs" Line="41" Column="22" />
+      <File FileName="JwtWebApiTutorial/appsettings.json" NotebookId="1" />
+      <File FileName="JwtWebApiTutorial/Controllers/AuthController.cs" Line="76" Column="1" NotebookId="1" />
+      <File FileName="JwtWebApiTutorial/Controllers/WeatherForecastController.cs" Line="22" Column="68" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JwtWebApiTutorial" expanded="True">
+            <Node name="JwtWebApiTutorial" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DTOs" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
